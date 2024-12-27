@@ -74,7 +74,7 @@ Here are the technologies I work with:
 
 <img src="https://img.icons8.com/color/64/000000/paint-palette.png" width="26" /> **Creativity**: Finding unique and artistic solutions to tech problems.
 
-🌱**Growth**: Embracing challenges and learning from them.
+  🌱   **Growth**: Embracing challenges and learning from them.
 
 ---
 
